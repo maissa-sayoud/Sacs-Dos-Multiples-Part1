@@ -6,3 +6,11 @@ Dans le cadre de ma formation dans la spécialité de SII (Systèmes d'Informati
 
 Nous avons aussi intégré une interface graphique pour une meilleure visualisation des réultats.
 
+Les détails de ce projet se trouvent dans le fichier Sacs_a_dos Part1 _ Metaheuristique.pdf
+
+Traitement avec DFS : voir les fichiers fonction.java et LancerTraitementDFS.java avec Noeud.java
+Traitement avec BFS : voir les fichiers fonction_bfs.java et LancerTraitementBFS.java avec Noeud.java
+Traitement avec A*  : voir les fichiers fonction_A.java et LancerTraitementAetoile.java avec NoeudA.java
+
+
+
