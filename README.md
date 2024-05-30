@@ -1,2 +1,2 @@
-# Sacs-Dos-Multiples-
-Problème d'optimisation  : DFS, BFS and A* (A star) metaheuristic algorithms 
+# Sacs-Dos-Multiples
+Problème d'optimisation des sacs à dos multiples en utulisant : DFS, BFS et A* (A star).
